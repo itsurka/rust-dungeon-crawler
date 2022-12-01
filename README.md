@@ -9,10 +9,8 @@ I develop this game during study the book - [Hands-on Rust. Effective Learning t
 cargo run
 ```
 
-Example: 
+## Example
 
-```text
-% cargo run
-```
+After start out player appears on center, and we can crawl the dungeon:
 
 ![Game screenshot](screenshot.png)
