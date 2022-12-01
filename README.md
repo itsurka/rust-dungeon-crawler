@@ -15,4 +15,4 @@ Example:
 % cargo run
 ```
 
-**TBD**
+![Game screenshot](screenshot.png)
