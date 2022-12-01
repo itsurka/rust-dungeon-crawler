@@ -11,6 +11,6 @@ cargo run
 
 ## Example
 
-After start out player appears on center, and we can crawl the dungeon:
+After start our player appears on center, and we can crawl the dungeon:
 
 ![Game screenshot](screenshot.png)
