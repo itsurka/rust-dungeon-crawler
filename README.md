@@ -13,4 +13,4 @@ cargo run
 
 After start our player appears on center, and we can crawl the dungeon:
 
-![Game screenshot](resources/screenshots/fields_of_view.png)
+![Game screenshot](resources/screenshots/gameplay.gif)
